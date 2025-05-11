@@ -1,0 +1,501 @@
+Country,Continent,Year,Beverage,Consumption_Liters_Per_Capita,Alcohol_Strength,Avg_Price_Per_Liter
+Germany,Europe,2015,Spirits,4.69,High Alcohol,11.48
+Russia,Europe,2018,Wine,30.1,Medium Alcohol,7.69
+Germany,Europe,2023,Beer,13.17,Low Alcohol,2.22
+Australia,Oceania,2021,Beer,9.13,Low Alcohol,2.78
+USA,North America,2016,Wine,1.7,Medium Alcohol,5.81
+Russia,Europe,2023,Cocktails,1.7,Medium Alcohol,8.43
+USA,North America,2023,Wine,0.6,Medium Alcohol,7.09
+South Africa,Africa,2021,Wine,20.11,Medium Alcohol,6.14
+India,Asia,2024,Spirits,9.19,High Alcohol,11.1
+USA,North America,2017,Cider,12.31,Low Alcohol,2.82
+Japan,Asia,2019,Wine,0.21,Medium Alcohol,8.28
+Russia,Europe,2020,Beer,35.04,Low Alcohol,2.65
+Germany,Europe,2021,Beer,17.86,Low Alcohol,2.15
+Japan,Asia,2020,Cocktails,2.39,Medium Alcohol,6.73
+Brazil,South America,2015,Cider,2.01,Low Alcohol,2.71
+South Africa,Africa,2016,Cider,2.03,Low Alcohol,2.61
+Germany,Europe,2023,Spirits,3.63,High Alcohol,8.61
+Australia,Oceania,2020,Cocktails,7.44,Medium Alcohol,8.83
+Russia,Europe,2016,Beer,5.66,Low Alcohol,2.08
+Russia,Europe,2019,Beer,3.44,Low Alcohol,2.95
+Russia,Europe,2016,Cider,9.46,Low Alcohol,3.15
+Brazil,South America,2022,Spirits,1.5,High Alcohol,9.86
+France,Europe,2020,Spirits,3.46,High Alcohol,10.25
+Russia,Europe,2019,Beer,4.56,Low Alcohol,2.58
+Australia,Oceania,2017,Cocktails,6.09,Medium Alcohol,8.58
+Russia,Europe,2017,Cider,15.38,Low Alcohol,3.46
+China,Asia,2019,Cocktails,2.23,Medium Alcohol,8.46
+Russia,Europe,2020,Beer,7.22,Low Alcohol,2.99
+Russia,Europe,2015,Spirits,8.98,High Alcohol,9.29
+China,Asia,2019,Beer,0.48,Low Alcohol,2.97
+Russia,Europe,2024,Spirits,9.35,High Alcohol,9.26
+Russia,Europe,2022,Cider,1.87,Low Alcohol,2.93
+India,Asia,2017,Spirits,0.67,High Alcohol,9.88
+France,Europe,2018,Cocktails,29.74,Medium Alcohol,8.42
+South Africa,Africa,2019,Cocktails,33.71,Medium Alcohol,8.95
+China,Asia,2024,Cider,16.52,Low Alcohol,3.11
+Japan,Asia,2018,Wine,3.63,Medium Alcohol,6.59
+South Africa,Africa,2022,Beer,1.03,Low Alcohol,2.07
+USA,North America,2016,Wine,11.53,Medium Alcohol,6.89
+France,Europe,2021,Cocktails,5.8,Medium Alcohol,6.52
+Germany,Europe,2021,Cider,1.3,Low Alcohol,2.84
+Australia,Oceania,2022,Cocktails,6.84,Medium Alcohol,7.32
+Brazil,South America,2023,Beer,0.35,Low Alcohol,2.64
+Germany,Europe,2023,Spirits,24.0,High Alcohol,11.91
+Japan,Asia,2016,Spirits,2.99,High Alcohol,8.36
+China,Asia,2017,Cider,10.86,Low Alcohol,3.11
+USA,North America,2019,Cocktails,3.74,Medium Alcohol,7.63
+France,Europe,2023,Beer,7.34,Low Alcohol,2.58
+Brazil,South America,2023,Cocktails,7.91,Medium Alcohol,9.45
+Russia,Europe,2017,Spirits,2.04,High Alcohol,10.96
+France,Europe,2023,Cocktails,34.93,Medium Alcohol,6.53
+USA,North America,2024,Spirits,14.92,High Alcohol,11.64
+India,Asia,2015,Beer,28.05,Low Alcohol,2.57
+Japan,Asia,2019,Wine,22.52,Medium Alcohol,6.13
+USA,North America,2018,Cocktails,9.11,Medium Alcohol,8.34
+Germany,Europe,2016,Cider,25.49,Low Alcohol,3.0
+Germany,Europe,2023,Wine,0.93,Medium Alcohol,8.28
+France,Europe,2022,Cocktails,2.18,Medium Alcohol,7.84
+France,Europe,2019,Cocktails,0.46,Medium Alcohol,9.0
+Australia,Oceania,2021,Wine,3.94,Medium Alcohol,7.94
+South Africa,Africa,2018,Spirits,4.92,High Alcohol,11.93
+China,Asia,2020,Cider,3.17,Low Alcohol,2.5
+South Africa,Africa,2022,Beer,17.65,Low Alcohol,2.65
+Russia,Europe,2018,Beer,4.41,Low Alcohol,2.04
+Japan,Asia,2015,Cocktails,3.3,Medium Alcohol,8.66
+South Africa,Africa,2018,Cocktails,7.82,Medium Alcohol,9.57
+Russia,Europe,2015,Beer,1.52,Low Alcohol,2.52
+USA,North America,2018,Beer,16.2,Low Alcohol,2.61
+USA,North America,2020,Beer,0.77,Low Alcohol,2.36
+South Africa,Africa,2018,Spirits,43.34,High Alcohol,11.67
+India,Asia,2018,Cocktails,14.79,Medium Alcohol,7.64
+France,Europe,2024,Cocktails,2.22,Medium Alcohol,8.88
+India,Asia,2018,Cider,0.06,Low Alcohol,3.21
+China,Asia,2018,Beer,16.9,Low Alcohol,2.05
+Germany,Europe,2021,Spirits,12.27,High Alcohol,10.52
+China,Asia,2021,Cider,13.06,Low Alcohol,2.8
+USA,North America,2016,Beer,14.75,Low Alcohol,2.33
+China,Asia,2020,Beer,0.77,Low Alcohol,2.56
+Russia,Europe,2018,Wine,4.44,Medium Alcohol,6.68
+South Africa,Africa,2022,Wine,1.23,Medium Alcohol,6.31
+China,Asia,2017,Spirits,19.89,High Alcohol,11.41
+India,Asia,2018,Beer,9.76,Low Alcohol,2.96
+India,Asia,2023,Beer,4.02,Low Alcohol,2.6
+USA,North America,2023,Beer,0.66,Low Alcohol,2.15
+Germany,Europe,2018,Wine,3.72,Medium Alcohol,5.83
+China,Asia,2022,Cider,3.93,Low Alcohol,3.2
+Russia,Europe,2021,Beer,13.08,Low Alcohol,2.92
+France,Europe,2021,Beer,10.15,Low Alcohol,2.31
+China,Asia,2019,Cider,21.82,Low Alcohol,3.19
+Brazil,South America,2021,Cocktails,6.39,Medium Alcohol,8.52
+India,Asia,2017,Wine,1.27,Medium Alcohol,5.96
+Brazil,South America,2018,Beer,12.49,Low Alcohol,2.71
+Australia,Oceania,2023,Beer,14.3,Low Alcohol,2.08
+Japan,Asia,2015,Beer,8.24,Low Alcohol,2.56
+Australia,Oceania,2022,Cocktails,14.74,Medium Alcohol,8.46
+South Africa,Africa,2017,Beer,6.81,Low Alcohol,2.33
+South Africa,Africa,2016,Wine,7.4,Medium Alcohol,5.96
+Germany,Europe,2024,Beer,5.58,Low Alcohol,2.7
+Russia,Europe,2021,Beer,0.26,Low Alcohol,2.95
+Australia,Oceania,2018,Cocktails,1.14,Medium Alcohol,9.59
+Australia,Oceania,2015,Cocktails,0.32,Medium Alcohol,9.32
+Germany,Europe,2021,Cocktails,10.12,Medium Alcohol,6.7
+Australia,Oceania,2023,Spirits,3.77,High Alcohol,10.68
+Brazil,South America,2018,Spirits,7.1,High Alcohol,10.03
+Russia,Europe,2019,Cider,23.81,Low Alcohol,2.42
+France,Europe,2019,Cider,2.87,Low Alcohol,2.77
+Japan,Asia,2016,Beer,5.28,Low Alcohol,2.95
+India,Asia,2024,Cocktails,14.09,Medium Alcohol,7.49
+Germany,Europe,2016,Cocktails,2.6,Medium Alcohol,8.85
+Russia,Europe,2023,Spirits,0.8,High Alcohol,8.77
+France,Europe,2020,Beer,3.42,Low Alcohol,3.0
+Russia,Europe,2020,Spirits,1.76,High Alcohol,8.62
+France,Europe,2022,Cocktails,26.55,Medium Alcohol,7.35
+Brazil,South America,2024,Cocktails,16.51,Medium Alcohol,8.92
+USA,North America,2023,Spirits,10.03,High Alcohol,10.03
+Germany,Europe,2017,Spirits,20.52,High Alcohol,10.16
+Germany,Europe,2016,Cocktails,16.28,Medium Alcohol,8.76
+France,Europe,2019,Spirits,2.06,High Alcohol,10.11
+Australia,Oceania,2018,Spirits,22.31,High Alcohol,10.65
+Russia,Europe,2019,Cocktails,7.75,Medium Alcohol,9.2
+India,Asia,2019,Beer,16.47,Low Alcohol,2.62
+Germany,Europe,2021,Spirits,22.64,High Alcohol,10.39
+USA,North America,2015,Spirits,3.83,High Alcohol,8.62
+France,Europe,2019,Wine,1.17,Medium Alcohol,6.11
+India,Asia,2023,Cider,2.59,Low Alcohol,3.23
+South Africa,Africa,2015,Beer,5.57,Low Alcohol,2.62
+Germany,Europe,2017,Cocktails,17.04,Medium Alcohol,9.29
+USA,North America,2020,Cocktails,19.71,Medium Alcohol,8.71
+South Africa,Africa,2017,Cider,0.07,Low Alcohol,2.45
+France,Europe,2015,Spirits,7.15,High Alcohol,9.46
+Japan,Asia,2015,Spirits,5.4,High Alcohol,10.88
+Russia,Europe,2018,Beer,2.51,Low Alcohol,2.97
+Japan,Asia,2023,Cider,1.28,Low Alcohol,3.13
+Australia,Oceania,2017,Wine,4.12,Medium Alcohol,7.71
+France,Europe,2017,Cider,28.63,Low Alcohol,3.34
+USA,North America,2017,Spirits,3.9,High Alcohol,8.94
+China,Asia,2018,Spirits,7.31,High Alcohol,8.96
+France,Europe,2016,Cider,12.14,Low Alcohol,3.56
+USA,North America,2022,Wine,4.52,Medium Alcohol,7.8
+Russia,Europe,2022,Spirits,35.68,High Alcohol,11.62
+Brazil,South America,2018,Wine,32.82,Medium Alcohol,6.14
+USA,North America,2018,Cider,2.9,Low Alcohol,3.21
+Japan,Asia,2019,Beer,6.88,Low Alcohol,2.57
+Brazil,South America,2020,Cocktails,3.58,Medium Alcohol,7.81
+China,Asia,2023,Spirits,3.35,High Alcohol,11.08
+USA,North America,2016,Spirits,0.38,High Alcohol,11.11
+France,Europe,2024,Spirits,9.4,High Alcohol,10.01
+USA,North America,2016,Cocktails,6.99,Medium Alcohol,7.74
+China,Asia,2020,Spirits,0.53,High Alcohol,8.65
+China,Asia,2024,Cocktails,3.27,Medium Alcohol,7.04
+Germany,Europe,2021,Cocktails,23.89,Medium Alcohol,8.33
+Russia,Europe,2019,Beer,2.74,Low Alcohol,2.87
+China,Asia,2015,Cocktails,1.57,Medium Alcohol,6.57
+South Africa,Africa,2018,Spirits,6.72,High Alcohol,9.92
+China,Asia,2016,Spirits,42.44,High Alcohol,9.48
+Australia,Oceania,2020,Beer,2.77,Low Alcohol,2.93
+Brazil,South America,2023,Spirits,11.15,High Alcohol,10.85
+China,Asia,2020,Cider,14.34,Low Alcohol,3.02
+Brazil,South America,2023,Wine,2.71,Medium Alcohol,5.95
+Russia,Europe,2021,Cider,13.03,Low Alcohol,2.5
+France,Europe,2024,Cocktails,4.59,Medium Alcohol,6.91
+Brazil,South America,2021,Cocktails,10.01,Medium Alcohol,7.84
+USA,North America,2019,Spirits,10.04,High Alcohol,10.05
+Russia,Europe,2021,Cocktails,7.67,Medium Alcohol,9.06
+Australia,Oceania,2020,Cider,0.95,Low Alcohol,2.51
+India,Asia,2022,Wine,18.04,Medium Alcohol,8.15
+South Africa,Africa,2022,Wine,3.87,Medium Alcohol,7.89
+Germany,Europe,2019,Cocktails,2.06,Medium Alcohol,9.23
+Australia,Oceania,2020,Beer,0.42,Low Alcohol,2.93
+Russia,Europe,2019,Wine,8.94,Medium Alcohol,6.76
+Russia,Europe,2017,Beer,11.32,Low Alcohol,2.4
+USA,North America,2018,Cider,0.17,Low Alcohol,2.85
+Australia,Oceania,2016,Cider,7.18,Low Alcohol,2.86
+China,Asia,2024,Wine,2.57,Medium Alcohol,5.83
+China,Asia,2022,Cider,10.36,Low Alcohol,2.67
+Russia,Europe,2017,Beer,1.92,Low Alcohol,2.32
+Germany,Europe,2021,Wine,11.74,Medium Alcohol,5.88
+France,Europe,2023,Cider,4.89,Low Alcohol,3.26
+USA,North America,2023,Wine,27.6,Medium Alcohol,6.54
+Germany,Europe,2022,Wine,1.48,Medium Alcohol,6.01
+India,Asia,2023,Cocktails,4.17,Medium Alcohol,6.52
+Australia,Oceania,2020,Cider,1.2,Low Alcohol,3.5
+Australia,Oceania,2023,Cider,25.86,Low Alcohol,2.97
+South Africa,Africa,2022,Wine,20.98,Medium Alcohol,7.93
+India,Asia,2022,Spirits,2.98,High Alcohol,11.04
+Russia,Europe,2019,Cocktails,10.79,Medium Alcohol,7.9
+India,Asia,2018,Spirits,16.99,High Alcohol,10.46
+India,Asia,2016,Spirits,8.1,High Alcohol,11.62
+Russia,Europe,2019,Spirits,7.54,High Alcohol,8.08
+Japan,Asia,2023,Beer,2.77,Low Alcohol,2.22
+France,Europe,2017,Wine,0.98,Medium Alcohol,6.02
+China,Asia,2017,Wine,22.75,Medium Alcohol,8.23
+Germany,Europe,2021,Cider,23.07,Low Alcohol,3.13
+Japan,Asia,2023,Cider,10.03,Low Alcohol,2.91
+China,Asia,2015,Wine,4.14,Medium Alcohol,7.77
+China,Asia,2021,Cocktails,4.3,Medium Alcohol,7.16
+USA,North America,2024,Cider,12.94,Low Alcohol,2.55
+India,Asia,2015,Spirits,22.74,High Alcohol,8.95
+Brazil,South America,2021,Cider,21.81,Low Alcohol,3.17
+South Africa,Africa,2023,Cocktails,15.14,Medium Alcohol,8.39
+Russia,Europe,2022,Wine,10.27,Medium Alcohol,5.78
+Brazil,South America,2021,Cider,0.88,Low Alcohol,3.4
+USA,North America,2021,Spirits,1.76,High Alcohol,10.0
+China,Asia,2017,Cider,22.88,Low Alcohol,3.04
+France,Europe,2024,Cocktails,9.32,Medium Alcohol,8.42
+USA,North America,2021,Cocktails,0.09,Medium Alcohol,8.24
+Australia,Oceania,2015,Beer,1.07,Low Alcohol,2.72
+China,Asia,2017,Cider,10.89,Low Alcohol,2.75
+France,Europe,2015,Spirits,0.05,High Alcohol,8.01
+China,Asia,2020,Wine,1.75,Medium Alcohol,6.59
+India,Asia,2020,Spirits,7.96,High Alcohol,10.28
+China,Asia,2019,Cider,11.77,Low Alcohol,2.62
+Brazil,South America,2016,Cider,10.55,Low Alcohol,3.2
+USA,North America,2023,Beer,2.54,Low Alcohol,2.52
+Japan,Asia,2018,Beer,12.45,Low Alcohol,2.36
+USA,North America,2015,Wine,2.71,Medium Alcohol,8.27
+Russia,Europe,2015,Cocktails,3.94,Medium Alcohol,8.14
+France,Europe,2018,Wine,13.72,Medium Alcohol,7.8
+India,Asia,2016,Cocktails,10.49,Medium Alcohol,8.02
+Russia,Europe,2022,Spirits,18.92,High Alcohol,8.08
+Japan,Asia,2017,Cocktails,10.72,Medium Alcohol,9.19
+Australia,Oceania,2016,Wine,8.4,Medium Alcohol,5.72
+Brazil,South America,2016,Cocktails,0.98,Medium Alcohol,7.64
+USA,North America,2019,Cocktails,4.58,Medium Alcohol,7.59
+China,Asia,2021,Wine,3.08,Medium Alcohol,7.69
+Germany,Europe,2024,Wine,2.8,Medium Alcohol,6.6
+Germany,Europe,2019,Cocktails,36.12,Medium Alcohol,6.62
+Germany,Europe,2024,Beer,4.99,Low Alcohol,2.24
+Japan,Asia,2023,Cider,22.26,Low Alcohol,3.19
+Japan,Asia,2016,Cocktails,9.97,Medium Alcohol,6.73
+Japan,Asia,2015,Cider,15.84,Low Alcohol,3.1
+India,Asia,2016,Cider,6.98,Low Alcohol,3.31
+Japan,Asia,2022,Wine,8.6,Medium Alcohol,5.97
+China,Asia,2017,Cocktails,6.78,Medium Alcohol,7.53
+Brazil,South America,2024,Cocktails,2.17,Medium Alcohol,7.48
+India,Asia,2022,Cider,12.82,Low Alcohol,3.17
+Australia,Oceania,2019,Spirits,3.3,High Alcohol,11.32
+Russia,Europe,2016,Spirits,0.25,High Alcohol,10.74
+India,Asia,2018,Cider,10.37,Low Alcohol,3.58
+Australia,Oceania,2024,Cider,1.95,Low Alcohol,2.97
+Japan,Asia,2015,Cider,28.21,Low Alcohol,2.62
+Japan,Asia,2017,Cider,30.78,Low Alcohol,2.56
+Russia,Europe,2020,Spirits,24.64,High Alcohol,10.86
+Japan,Asia,2019,Cocktails,4.62,Medium Alcohol,9.42
+Brazil,South America,2023,Beer,0.16,Low Alcohol,2.04
+South Africa,Africa,2018,Beer,26.36,Low Alcohol,2.2
+Russia,Europe,2021,Cider,5.59,Low Alcohol,3.35
+South Africa,Africa,2018,Cider,34.01,Low Alcohol,3.46
+India,Asia,2022,Beer,33.14,Low Alcohol,2.32
+Germany,Europe,2019,Wine,19.17,Medium Alcohol,6.47
+China,Asia,2018,Spirits,3.49,High Alcohol,9.59
+Australia,Oceania,2020,Cider,4.86,Low Alcohol,3.38
+South Africa,Africa,2023,Spirits,19.05,High Alcohol,9.89
+China,Asia,2023,Spirits,3.81,High Alcohol,8.15
+Japan,Asia,2022,Spirits,1.86,High Alcohol,10.59
+Brazil,South America,2019,Wine,8.14,Medium Alcohol,6.4
+Germany,Europe,2018,Spirits,27.51,High Alcohol,11.45
+Germany,Europe,2023,Wine,11.91,Medium Alcohol,5.73
+Russia,Europe,2018,Cider,8.44,Low Alcohol,3.19
+Brazil,South America,2024,Cocktails,1.02,Medium Alcohol,7.27
+Australia,Oceania,2019,Beer,9.55,Low Alcohol,2.8
+Russia,Europe,2019,Wine,46.11,Medium Alcohol,6.82
+Japan,Asia,2017,Spirits,1.51,High Alcohol,9.6
+USA,North America,2023,Wine,7.3,Medium Alcohol,6.83
+Brazil,South America,2015,Beer,20.99,Low Alcohol,2.96
+South Africa,Africa,2019,Wine,13.5,Medium Alcohol,6.55
+India,Asia,2016,Beer,11.94,Low Alcohol,2.19
+Australia,Oceania,2019,Cider,12.12,Low Alcohol,3.23
+India,Asia,2022,Spirits,4.45,High Alcohol,9.47
+France,Europe,2015,Spirits,3.48,High Alcohol,11.19
+India,Asia,2016,Beer,16.57,Low Alcohol,2.27
+China,Asia,2022,Beer,16.61,Low Alcohol,2.08
+Australia,Oceania,2015,Wine,20.18,Medium Alcohol,6.79
+France,Europe,2024,Spirits,24.45,High Alcohol,9.72
+Germany,Europe,2018,Beer,7.16,Low Alcohol,3.0
+South Africa,Africa,2021,Cocktails,6.96,Medium Alcohol,6.98
+Australia,Oceania,2024,Wine,16.01,Medium Alcohol,6.42
+South Africa,Africa,2021,Cider,10.5,Low Alcohol,2.52
+India,Asia,2019,Cocktails,12.11,Medium Alcohol,7.45
+China,Asia,2019,Cocktails,15.89,Medium Alcohol,7.35
+Australia,Oceania,2015,Cocktails,22.07,Medium Alcohol,7.83
+Germany,Europe,2018,Wine,4.12,Medium Alcohol,7.61
+Brazil,South America,2016,Wine,4.71,Medium Alcohol,6.07
+Russia,Europe,2017,Cocktails,0.99,Medium Alcohol,7.82
+Germany,Europe,2017,Beer,8.63,Low Alcohol,2.45
+China,Asia,2022,Cocktails,0.37,Medium Alcohol,8.73
+India,Asia,2019,Beer,6.27,Low Alcohol,2.91
+Russia,Europe,2019,Spirits,7.82,High Alcohol,10.46
+India,Asia,2016,Wine,3.38,Medium Alcohol,6.82
+Brazil,South America,2024,Wine,8.94,Medium Alcohol,7.39
+China,Asia,2016,Cocktails,0.31,Medium Alcohol,8.93
+Russia,Europe,2017,Spirits,0.38,High Alcohol,8.23
+France,Europe,2016,Beer,17.29,Low Alcohol,2.67
+France,Europe,2019,Cocktails,4.47,Medium Alcohol,7.7
+Australia,Oceania,2019,Cider,1.36,Low Alcohol,3.02
+Germany,Europe,2022,Spirits,7.39,High Alcohol,11.0
+China,Asia,2019,Cocktails,14.7,Medium Alcohol,6.91
+South Africa,Africa,2022,Cider,2.43,Low Alcohol,2.44
+Germany,Europe,2024,Beer,9.75,Low Alcohol,2.85
+China,Asia,2020,Cocktails,0.89,Medium Alcohol,8.57
+Brazil,South America,2015,Beer,0.53,Low Alcohol,2.44
+Russia,Europe,2024,Cocktails,7.58,Medium Alcohol,6.8
+USA,North America,2019,Cocktails,7.78,Medium Alcohol,7.16
+USA,North America,2017,Cider,10.15,Low Alcohol,3.17
+South Africa,Africa,2022,Spirits,12.95,High Alcohol,9.45
+France,Europe,2024,Cider,37.24,Low Alcohol,3.54
+India,Asia,2016,Cider,7.26,Low Alcohol,2.44
+Japan,Asia,2021,Spirits,3.9,High Alcohol,8.61
+Japan,Asia,2016,Wine,15.86,Medium Alcohol,6.86
+Japan,Asia,2021,Cider,3.16,Low Alcohol,2.85
+Brazil,South America,2021,Cocktails,5.78,Medium Alcohol,7.82
+USA,North America,2022,Beer,0.82,Low Alcohol,2.08
+Japan,Asia,2019,Spirits,0.26,High Alcohol,8.55
+Germany,Europe,2021,Cocktails,32.87,Medium Alcohol,7.57
+USA,North America,2023,Cider,18.08,Low Alcohol,2.78
+China,Asia,2015,Wine,11.91,Medium Alcohol,6.38
+South Africa,Africa,2020,Cocktails,5.26,Medium Alcohol,9.47
+India,Asia,2022,Beer,1.9,Low Alcohol,2.03
+Russia,Europe,2019,Cocktails,1.7,Medium Alcohol,7.0
+France,Europe,2019,Cider,2.88,Low Alcohol,3.02
+India,Asia,2016,Beer,7.97,Low Alcohol,2.91
+Australia,Oceania,2018,Wine,12.54,Medium Alcohol,5.93
+Brazil,South America,2023,Beer,10.79,Low Alcohol,2.77
+South Africa,Africa,2021,Beer,3.28,Low Alcohol,2.7
+Russia,Europe,2016,Cider,30.98,Low Alcohol,2.66
+Germany,Europe,2017,Cider,13.39,Low Alcohol,3.13
+Brazil,South America,2023,Spirits,8.08,High Alcohol,10.78
+China,Asia,2022,Cider,9.46,Low Alcohol,3.6
+Russia,Europe,2022,Cocktails,5.44,Medium Alcohol,7.04
+France,Europe,2021,Wine,2.85,Medium Alcohol,5.98
+Australia,Oceania,2023,Wine,4.4,Medium Alcohol,5.81
+Germany,Europe,2019,Cider,14.18,Low Alcohol,2.61
+Japan,Asia,2023,Spirits,0.14,High Alcohol,10.85
+USA,North America,2019,Spirits,1.23,High Alcohol,11.99
+Australia,Oceania,2024,Cider,0.47,Low Alcohol,3.37
+France,Europe,2022,Cocktails,0.42,Medium Alcohol,9.5
+India,Asia,2020,Spirits,19.34,High Alcohol,11.95
+South Africa,Africa,2023,Cider,12.16,Low Alcohol,3.2
+India,Asia,2020,Wine,6.43,Medium Alcohol,7.59
+Russia,Europe,2024,Cider,1.03,Low Alcohol,3.06
+Russia,Europe,2021,Beer,6.77,Low Alcohol,2.29
+Japan,Asia,2022,Cider,6.41,Low Alcohol,2.76
+China,Asia,2017,Cider,1.9,Low Alcohol,2.59
+USA,North America,2017,Cocktails,5.69,Medium Alcohol,8.67
+Australia,Oceania,2020,Beer,5.08,Low Alcohol,2.7
+India,Asia,2016,Cocktails,9.57,Medium Alcohol,6.96
+India,Asia,2015,Wine,10.08,Medium Alcohol,6.61
+China,Asia,2017,Beer,0.46,Low Alcohol,2.22
+India,Asia,2019,Spirits,4.69,High Alcohol,11.94
+Australia,Oceania,2021,Beer,9.83,Low Alcohol,2.79
+Japan,Asia,2023,Cider,6.99,Low Alcohol,2.68
+Japan,Asia,2022,Cocktails,19.41,Medium Alcohol,7.98
+USA,North America,2024,Beer,10.75,Low Alcohol,2.36
+Russia,Europe,2019,Wine,1.78,Medium Alcohol,7.2
+Germany,Europe,2021,Beer,0.73,Low Alcohol,2.47
+Germany,Europe,2022,Wine,10.28,Medium Alcohol,8.35
+Brazil,South America,2015,Beer,0.27,Low Alcohol,2.13
+Japan,Asia,2015,Spirits,8.81,High Alcohol,11.54
+Japan,Asia,2020,Cider,28.17,Low Alcohol,2.48
+France,Europe,2018,Cocktails,8.57,Medium Alcohol,7.67
+China,Asia,2024,Wine,4.91,Medium Alcohol,7.61
+France,Europe,2017,Beer,10.31,Low Alcohol,2.48
+Australia,Oceania,2021,Cocktails,6.13,Medium Alcohol,7.71
+Russia,Europe,2022,Cocktails,7.89,Medium Alcohol,7.71
+France,Europe,2018,Cider,28.38,Low Alcohol,3.09
+Brazil,South America,2022,Spirits,4.88,High Alcohol,8.5
+USA,North America,2022,Spirits,32.49,High Alcohol,9.27
+South Africa,Africa,2017,Beer,23.58,Low Alcohol,2.07
+India,Asia,2020,Cocktails,2.18,Medium Alcohol,7.89
+Brazil,South America,2021,Spirits,0.72,High Alcohol,10.07
+India,Asia,2019,Wine,1.06,Medium Alcohol,5.96
+China,Asia,2022,Beer,0.18,Low Alcohol,2.83
+Russia,Europe,2021,Cocktails,0.99,Medium Alcohol,8.16
+Japan,Asia,2024,Spirits,11.49,High Alcohol,10.35
+Brazil,South America,2015,Cider,0.74,Low Alcohol,3.32
+Brazil,South America,2015,Cocktails,3.84,Medium Alcohol,6.81
+USA,North America,2024,Cider,18.64,Low Alcohol,3.0
+Brazil,South America,2018,Cocktails,0.24,Medium Alcohol,9.18
+Japan,Asia,2018,Wine,16.85,Medium Alcohol,7.93
+Australia,Oceania,2019,Wine,3.31,Medium Alcohol,7.05
+Germany,Europe,2015,Spirits,1.26,High Alcohol,9.22
+India,Asia,2015,Cocktails,11.93,Medium Alcohol,6.92
+Japan,Asia,2017,Beer,9.91,Low Alcohol,2.93
+Brazil,South America,2020,Cider,20.99,Low Alcohol,2.67
+France,Europe,2018,Wine,13.28,Medium Alcohol,8.25
+South Africa,Africa,2020,Cocktails,16.27,Medium Alcohol,8.06
+South Africa,Africa,2019,Wine,3.31,Medium Alcohol,6.4
+Brazil,South America,2022,Spirits,1.95,High Alcohol,8.32
+Japan,Asia,2016,Cider,13.89,Low Alcohol,2.64
+Germany,Europe,2017,Wine,16.44,Medium Alcohol,8.28
+China,Asia,2023,Spirits,46.57,High Alcohol,9.1
+Germany,Europe,2021,Beer,5.32,Low Alcohol,2.63
+Brazil,South America,2023,Beer,4.65,Low Alcohol,2.61
+India,Asia,2020,Spirits,14.98,High Alcohol,8.37
+Australia,Oceania,2021,Spirits,4.17,High Alcohol,10.56
+Germany,Europe,2018,Cider,26.7,Low Alcohol,3.11
+USA,North America,2024,Cocktails,19.55,Medium Alcohol,8.26
+Japan,Asia,2024,Wine,5.6,Medium Alcohol,6.08
+Germany,Europe,2022,Spirits,13.9,High Alcohol,10.5
+China,Asia,2016,Wine,14.05,Medium Alcohol,8.13
+USA,North America,2015,Spirits,1.09,High Alcohol,9.35
+India,Asia,2016,Beer,23.28,Low Alcohol,2.92
+Russia,Europe,2023,Wine,7.04,Medium Alcohol,5.72
+China,Asia,2022,Spirits,17.51,High Alcohol,11.46
+South Africa,Africa,2021,Cocktails,3.86,Medium Alcohol,6.66
+France,Europe,2021,Beer,22.59,Low Alcohol,2.95
+India,Asia,2024,Cider,4.93,Low Alcohol,3.33
+Brazil,South America,2015,Spirits,0.11,High Alcohol,9.06
+Russia,Europe,2022,Cider,23.58,Low Alcohol,2.65
+Russia,Europe,2020,Beer,0.96,Low Alcohol,2.57
+Japan,Asia,2023,Spirits,3.85,High Alcohol,10.47
+USA,North America,2021,Spirits,29.97,High Alcohol,8.12
+Russia,Europe,2016,Cider,30.08,Low Alcohol,3.47
+Germany,Europe,2018,Cocktails,8.52,Medium Alcohol,8.15
+USA,North America,2015,Spirits,9.99,High Alcohol,10.57
+Russia,Europe,2017,Cocktails,5.95,Medium Alcohol,7.37
+Russia,Europe,2016,Cocktails,3.47,Medium Alcohol,7.18
+Russia,Europe,2024,Wine,3.98,Medium Alcohol,7.86
+Russia,Europe,2020,Wine,11.16,Medium Alcohol,6.74
+Australia,Oceania,2015,Spirits,13.96,High Alcohol,9.81
+France,Europe,2017,Cocktails,15.68,Medium Alcohol,8.6
+Brazil,South America,2017,Beer,15.59,Low Alcohol,2.16
+USA,North America,2017,Beer,0.96,Low Alcohol,2.42
+Japan,Asia,2018,Cocktails,6.82,Medium Alcohol,7.89
+Japan,Asia,2015,Wine,0.59,Medium Alcohol,6.55
+Brazil,South America,2015,Wine,7.97,Medium Alcohol,6.0
+China,Asia,2023,Beer,5.83,Low Alcohol,2.86
+Germany,Europe,2022,Cider,21.87,Low Alcohol,2.78
+Japan,Asia,2023,Cocktails,4.32,Medium Alcohol,9.56
+Germany,Europe,2022,Cocktails,1.25,Medium Alcohol,7.51
+Russia,Europe,2024,Beer,1.54,Low Alcohol,2.4
+South Africa,Africa,2019,Cider,14.33,Low Alcohol,3.31
+USA,North America,2015,Cider,9.63,Low Alcohol,3.02
+China,Asia,2021,Beer,1.07,Low Alcohol,2.11
+India,Asia,2022,Beer,0.88,Low Alcohol,2.24
+Germany,Europe,2020,Cocktails,12.07,Medium Alcohol,6.79
+France,Europe,2016,Wine,0.76,Medium Alcohol,6.86
+Brazil,South America,2024,Cocktails,17.25,Medium Alcohol,6.85
+South Africa,Africa,2020,Cider,12.25,Low Alcohol,2.46
+Australia,Oceania,2023,Spirits,0.85,High Alcohol,11.78
+India,Asia,2023,Cocktails,0.89,Medium Alcohol,9.17
+China,Asia,2016,Beer,43.15,Low Alcohol,2.42
+South Africa,Africa,2018,Cider,4.69,Low Alcohol,3.56
+India,Asia,2018,Cider,4.63,Low Alcohol,3.48
+Japan,Asia,2022,Cider,16.76,Low Alcohol,3.38
+China,Asia,2016,Spirits,29.42,High Alcohol,11.74
+China,Asia,2020,Spirits,42.69,High Alcohol,10.88
+Japan,Asia,2017,Cider,14.0,Low Alcohol,2.63
+Germany,Europe,2016,Beer,4.72,Low Alcohol,2.16
+Germany,Europe,2021,Beer,0.87,Low Alcohol,3.0
+Japan,Asia,2017,Cocktails,15.01,Medium Alcohol,7.89
+USA,North America,2024,Cocktails,8.17,Medium Alcohol,9.21
+South Africa,Africa,2020,Beer,5.52,Low Alcohol,2.5
+China,Asia,2020,Cider,23.68,Low Alcohol,2.51
+USA,North America,2019,Cocktails,1.18,Medium Alcohol,7.66
+Brazil,South America,2020,Beer,6.79,Low Alcohol,2.46
+Australia,Oceania,2023,Wine,0.11,Medium Alcohol,6.27
+France,Europe,2022,Wine,6.32,Medium Alcohol,7.23
+Germany,Europe,2020,Cocktails,0.58,Medium Alcohol,6.56
+Japan,Asia,2016,Spirits,1.26,High Alcohol,9.13
+Australia,Oceania,2018,Cider,1.25,Low Alcohol,3.12
+South Africa,Africa,2024,Cocktails,10.48,Medium Alcohol,9.1
+South Africa,Africa,2015,Cocktails,13.71,Medium Alcohol,8.55
+Brazil,South America,2015,Wine,8.76,Medium Alcohol,6.4
+Brazil,South America,2019,Spirits,32.75,High Alcohol,8.03
+Japan,Asia,2015,Wine,4.7,Medium Alcohol,5.9
+France,Europe,2024,Cider,3.36,Low Alcohol,2.56
+Germany,Europe,2017,Beer,20.3,Low Alcohol,2.26
+Germany,Europe,2023,Wine,2.53,Medium Alcohol,6.62
+China,Asia,2021,Cider,33.03,Low Alcohol,2.88
+Japan,Asia,2017,Spirits,0.12,High Alcohol,8.18
+Brazil,South America,2020,Cocktails,35.03,Medium Alcohol,6.56
+Australia,Oceania,2016,Beer,0.44,Low Alcohol,2.56
+France,Europe,2017,Cocktails,22.18,Medium Alcohol,7.56
+USA,North America,2016,Spirits,7.5,High Alcohol,9.15
+India,Asia,2021,Cider,49.57,Low Alcohol,2.86
+Australia,Oceania,2022,Cider,0.77,Low Alcohol,2.94
+Brazil,South America,2018,Cocktails,8.07,Medium Alcohol,8.16
+Germany,Europe,2020,Cider,34.84,Low Alcohol,3.39
+Germany,Europe,2019,Cocktails,7.4,Medium Alcohol,8.39
+India,Asia,2023,Spirits,9.93,High Alcohol,10.44
+USA,North America,2018,Cider,11.9,Low Alcohol,2.55
+Australia,Oceania,2015,Beer,6.06,Low Alcohol,2.1
+Russia,Europe,2019,Wine,9.88,Medium Alcohol,6.64
+France,Europe,2019,Spirits,8.78,High Alcohol,11.95
+Japan,Asia,2016,Beer,23.14,Low Alcohol,2.56
+India,Asia,2021,Wine,0.47,Medium Alcohol,6.62
+France,Europe,2021,Cocktails,3.3,Medium Alcohol,6.86
+Russia,Europe,2023,Cocktails,30.04,Medium Alcohol,8.33
+Japan,Asia,2016,Cider,22.1,Low Alcohol,2.88
+USA,North America,2021,Beer,6.08,Low Alcohol,2.04
+India,Asia,2016,Spirits,9.68,High Alcohol,8.16
+Australia,Oceania,2021,Cocktails,3.25,Medium Alcohol,8.68
+China,Asia,2021,Spirits,2.08,High Alcohol,11.22
+Germany,Europe,2021,Beer,6.23,Low Alcohol,2.52
+Japan,Asia,2017,Cocktails,4.36,Medium Alcohol,6.88
+India,Asia,2020,Beer,8.76,Low Alcohol,2.89
+China,Asia,2016,Wine,0.81,Medium Alcohol,5.99
+China,Asia,2024,Cider,36.65,Low Alcohol,3.52
+South Africa,Africa,2016,Cider,42.84,Low Alcohol,2.78
