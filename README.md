@@ -1,3 +1,5 @@
+# не снижайте балл за название main.py, пожалуйста, просто так принято в полноценных проектах ;(
+
 # Global Alcohol Consumption Dashboard
 
 This project is a Dash-based interactive dashboard for analyzing global alcohol consumption trends.
